@@ -1,3 +1,4 @@
+This program uses the equation v = gt to calculate the speed of a falling object, where v is velocity, g is the acceleration due to gravity, and t is time. The program uses a while loop to iterate through time steps and update the velocity and time at each step. It then stores the data in lists and plots the data using the matplotlib library.
 
 ```
 import matplotlib.pyplot as plt
